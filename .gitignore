@@ -1,0 +1,15 @@
+# Claude Code local config (not part of the project)
+.claude/
+
+# Source-material-only project report (not published)
+Gruppo_4___Second_Project_AIML_2024.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
