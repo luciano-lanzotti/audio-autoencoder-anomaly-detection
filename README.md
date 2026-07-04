@@ -7,8 +7,8 @@ A 1D convolutional autoencoder that learns to distinguish three audio types — 
 - **Author**: Luciano Lanzotti
 - **Course**: AI Methods and ML for Physics
 - **Program**: Bachelor's Degree in Physics — Sapienza University of Rome
-- **Professor**: [Professor Name]
-- **Academic year**: [Academic Year]
+- **Professor**: Stefano Giagu
+- **Academic year**: 2023/2024
 
 ## Project Overview
 
